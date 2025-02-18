@@ -1,0 +1,12 @@
+attrs
+future
+matplotlib
+mmcls
+numpy
+packaging
+scikit-learn
+scipy
+six
+tensorboard
+timm
+tqdm
