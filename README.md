@@ -1,7 +1,3 @@
-## To Do
-- [x] Upload Code.
-- [ ] Upload Checkpoint.
-
 ## Installation
 ```shell
 cd PixCon
